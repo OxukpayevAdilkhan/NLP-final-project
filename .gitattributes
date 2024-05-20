@@ -1,0 +1,5 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+aggression_parsed_dataset.csv filter=lfs diff=lfs merge=lfs -text
+attack_parsed_dataset.csv filter=lfs diff=lfs merge=lfs -text
+toxicity_parsed_dataset.csv filter=lfs diff=lfs merge=lfs -text
